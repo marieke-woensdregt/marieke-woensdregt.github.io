@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: "Avenir Next" !important;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,15 +21,15 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: "Avenir Next" !important;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
     font-size: 2em;
-    font-family: "Avenir Next" !important;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1em;
-    font-family: "Avenir Next" !important;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 0.9em;
     color: #333;
 }
