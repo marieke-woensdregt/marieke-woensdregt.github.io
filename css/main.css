@@ -38,6 +38,9 @@ p {
     line-height: 1.4em;
     color: #000000;
 }
+p.small {
+    line-height: 70%;
+}
 footer {
     border-top: 1px solid #993300;
     font-size: 0.8em;
