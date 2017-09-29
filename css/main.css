@@ -57,7 +57,7 @@ ul.posts li {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     width: 10%;
-    clear: left;
+    /* clear: left; */
     /* margin-left: 10px; */
     margin-bottom: 20px;
     /* background-color: #990; */
