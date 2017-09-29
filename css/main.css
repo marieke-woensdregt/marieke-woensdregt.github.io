@@ -3,12 +3,14 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
+    margin-left: 25%;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    margin-left: 25%;
     display: inline;
     margin-right: 20px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -48,12 +50,14 @@ footer {
     font-size: 0.8em;
 }
 
-ul.posts { 
+ul.posts {
+    margin-left: 25%;
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
+    margin-left: 25%;
     list-style: none;
 }
 
