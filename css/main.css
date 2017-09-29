@@ -60,6 +60,6 @@ ul.posts li {
     clear: left;
     /* margin-left: 10px; */
     margin-bottom: 20px;
-    background: #111;
+    background-color: #111;
     position: absolute;
 }  
