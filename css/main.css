@@ -55,12 +55,13 @@ ul.posts li {
     list-style: none;
 }
 
-#gold-bar           
-{ 
-width: 630px; 
-height: 5px; 
-clear: left;
-margin-left: 40px;
-margin-bottom: 20px;
-background: #111;
+#sidebar           
+{
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    width: 25%;
+    clear: left;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    background: #111;
 }  
