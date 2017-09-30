@@ -31,7 +31,8 @@ a {
     color: #662200;
 }
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+  text-decoration-style: dotted;
 }
 a.menu {
     color: #BCA693;
