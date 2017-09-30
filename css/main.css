@@ -70,7 +70,8 @@ sidebar {
     left:0px;
     bottom:0px;
     top:0px;
-    width:100px;
+    height:100%;
+    width:20%;
 }  
 
 .tab { 
