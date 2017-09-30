@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #c0c0c0; /* brown colour = #993300 */
+    color: #993300; /* brown colour = #c0c0c0 */
 }
 a:hover {
     text-decoration: underline;
@@ -43,7 +43,7 @@ p.small {
     margin-left: 20px;
 }
 footer {
-    border-top: 1px solid #c0c0c0; /* brown colour = #993300 */;
+    border-top: 1px solid #993300; /* brown colour = #c0c0c0 */;
     font-size: 0.8em;
 }
 
