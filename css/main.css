@@ -40,7 +40,7 @@ p {
 }
 p.small {
     line-height: 70%;
-    margin-left: 30px;
+    margin-left: 20px;
 }
 footer {
     border-top: 1px solid #993300;
@@ -70,5 +70,5 @@ ul.posts li {
 }  
 
 .tab { 
-    margin-left: 30px; 
+    margin-left: 20px; 
 }
