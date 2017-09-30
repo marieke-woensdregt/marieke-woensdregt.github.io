@@ -38,21 +38,25 @@ a.menu {
     color: #BCA693;
 }
 h1 {
-    font-size: 2em;
-    font-family:'Avenir Next';
+  font-size: 2em;
+  font-family:'Avenir Next';
+  font-weight: normal;
 }
 h2 {
-    font-size: 1.5em;
-    font-family:'Avenir Next';
+  font-size: 1.5em;
+  font-family:'Avenir Next';
+  font-weight: normal;
 }
 h3 {
-    font-size: 1em;
-    font-family:'Avenir Next';
+  font-size: 1em;
+  font-family:'Avenir Next';
+  font-weight: normal;
 }
 h4 {
-    font-size: 0.6em;
-    font-family:'Avenir Next';
-    text-transform: uppercase;
+  font-size: 0.6em;
+  font-family:'Avenir Next';
+  text-transform: uppercase;
+  font-weight: normal;
 }
 p {
     font-size: 1em;
@@ -80,8 +84,6 @@ ul.posts li {
 }
 
 sidebar {
-    font-size: 1.5em;
-    font-family:'Avenir Next';
     float: left;
     clear: left;
     position:absolute;
