@@ -16,7 +16,7 @@ body {
     margin-bottom:0px;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Avenir Next';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -24,7 +24,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Avenir Next';
 }
 a {
     text-decoration: none;
@@ -43,20 +43,20 @@ h1 {
 }
 h2 {
     font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Avenir Next';
 }
 h3 {
     font-size: 1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Avenir Next';
 }
 h4 {
     font-size: 0.6em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Avenir Next';
     text-transform: uppercase;
 }
 p {
     font-size: 1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Avenir Next';
     line-height: 1.4em;
     color: #000000;
 }
@@ -81,7 +81,7 @@ ul.posts li {
 
 sidebar {
     font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Avenir Next';
     float: left;
     clear: left;
     position:absolute;
