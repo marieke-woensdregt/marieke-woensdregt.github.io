@@ -19,7 +19,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-p.menu {
+a.menu {
     color: #000000;
 }
 h1 {
