@@ -70,6 +70,9 @@ sidebar {
     left:0px;
     bottom:0px;
     top:0px;
+    margin-left:0px;
+    margin-top:0px;
+    margin-bottom:0px;
     height:100%;
     width:20%;
 }  
