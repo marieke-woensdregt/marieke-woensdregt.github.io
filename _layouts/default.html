@@ -1,5 +1,14 @@
 <!DOCTYPE html>
 	<html>		
+		
+		<head>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<!-- seo tag helps optimize github homepage for search engines: -->
+			{% include head.html %}
+			{% seo %}
+		</head>
+		
 		<sidebar style="position:absolute; width: 20%; clear:left;">
 		<div class="menu" style="float:left">
 			<img src="sidebar_pic.jpg" alt="me" style="width:80%; clear:left;">
@@ -14,14 +23,6 @@
 			<a href="/misc"> <h3 class="tab" style="clear:left"> Misc. </h3> </a>
 		</div><!-- /.menu -->
 		</sidebar>
-		
-		<head>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<!-- seo tag helps optimize github homepage for search engines: -->
-			{% include head.html %}
-			{% seo %}
-		</head>
 		
 		<body>
 		<div class="blurb" style="margin-left:25%">
