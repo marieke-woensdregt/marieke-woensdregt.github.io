@@ -63,6 +63,7 @@ ul.posts li {
     float: left;
     clear: left;
     position: absolute;
+    border-radius: 10px;
 }  
 
 .tab { 
