@@ -1,41 +1,62 @@
 <!DOCTYPE html>
 	<html>		
 		
-		<head style="margin-top:0px; top:0px">
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<!-- seo tag helps optimize github homepage for search engines: -->
-			{% seo %}
-		</head>
 		
+		<!-- 
 		<sidebar style="position:absolute; width: 20%; clear:left; clear:top; top:0px; margin-top:0px; margin-bottom:0px; margin-left:0px; background-color:#331100">
 		<div class="menu" style="float:left">
 			<img class="tab" src="sidebar_pic.jpg" alt="me" style="width:80%; margin-top:27px; margin-bottom:10px; clear:left;">
-			<!-- <p class="small" style="width:100%; margin-bottom:35px; clear:left;"> Marieke Woensdregt </p> -->
 			<a class="menu" href="/"> <h4 class="doubletab" style="clear:left;"> About me </h4> </a>
 			<a class="menu" href="/publications"> <h4 class="doubletab" style="clear:left;"> Publications </h4> </a>
 			<a class="menu" href="/talks_n_posters"> <h4 class="doubletab" style="clear:left;"> Talks &amp; Posters </h4> </a>
 			<a class="menu" href="/teaching"> <h4 class="doubletab" style="clear:left;"> Teaching </h4> </a>
 			<a class="menu" href="/cv"> <h4 class="doubletab" style="clear:left;"> CV </h4> </a>
-			<!-- <a class="menu" href="/public_outreach"> <h4 class="doubletab" style="clear:left;"> Public Outreach </h4> </a> -->
 			<a class="menu" href="/misc"> <h4 class="doubletab" style="clear:left;"> Miscellaneous </h4> </a>
-		</div><!-- /.menu -->
+		</div>
 		</sidebar>
+		-->
 		
-		<body>
-		<div class="blurb" style="margin-left:23%; margin-right:3%; margin-top:0px">
-			<br />
-			<title>{{ page.title }}</title>
-			{{ content }}
-		</div><!-- /.blurb -->
-		</body>
+		
+		<div id="mySidenav" class="sidenav">
+		  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+		  <a href="#">About</a>
+		  <a href="#">Services</a>
+		  <a href="#">Clients</a>
+		  <a href="#">Contact</a>
+		</div>
+		
+		
+		<!-- Use any element to open the sidenav -->
+		<span onclick="openNav()">open</span>
 
-		<footer style="margin-left:23%; margin-right:3%">
-			<h3>
-			<a href="mailto:mwoensdr@ed.ac.uk"> <img  src="/images/email_symbol_filled.svg" alt="email symbol" style="height:18px"> mwoensdr[AT]ed.ac.uk </a>
-			<a class="tab" href="https://github.com/marieke-woensdregt"> <img src="/images/github_symbol.jpg" alt="github symbol" style="height:18px"> marieke-woensdregt </a>
-			<a class="tab" href="https://twitter.com/mariekewoe"> <img src="/images/twitter_symbol_black_solo.jpg" alt="twitter symbol" style="height:15px"> @mariekewoe </a>
-			</h3>
-		</footer>
+		<!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->
+		<div id="main">
+			
+			<head style="margin-top:0px; top:0px">
+				<!-- link to main stylesheet -->
+				<link rel="stylesheet" type="text/css" href="/css/main.css">
+				<!-- seo tag helps optimize github homepage for search engines: -->
+				{% seo %}
+			</head>
+			
+		  	<body>
+			<div class="blurb" style="margin-left:23%; margin-right:3%; margin-top:0px">
+				<br />
+				<title>{{ page.title }}</title>
+				{{ content }}
+			</div><!-- /.blurb -->
+			</body>
+
+			<footer style="margin-left:23%; margin-right:3%">
+				<h3>
+				<a href="mailto:mwoensdr@ed.ac.uk"> <img  src="/images/email_symbol_filled.svg" alt="email symbol" style="height:18px"> mwoensdr[AT]ed.ac.uk </a>
+				<a class="tab" href="https://github.com/marieke-woensdregt"> <img src="/images/github_symbol.jpg" alt="github symbol" style="height:18px"> marieke-woensdregt </a>
+				<a class="tab" href="https://twitter.com/mariekewoe"> <img src="/images/twitter_symbol_black_solo.jpg" alt="twitter symbol" style="height:15px"> @mariekewoe </a>
+				</h3>
+			</footer>
+		</div>
+		
+		
+
 
 	</html>
