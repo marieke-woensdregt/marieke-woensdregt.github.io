@@ -23,7 +23,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 0px;
+    margin-right: 20px;
     font-family:'Avenir Next';
 }
 a {
@@ -115,7 +115,7 @@ sidebar {
 .sidenav a {
   padding: 3px 4px 3px 8px;
   text-decoration: none;
-  font-size: 25px;
+  /* font-size: 25px; */
   color: #818181;
   display: block;
 }
