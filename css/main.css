@@ -28,7 +28,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #802b00;
+    color: #914608;
 }
 a:hover {
   text-decoration: underline;
@@ -69,7 +69,7 @@ p.small {
     color: #000000;
 }
 footer {
-    border-top: 1px solid #331100;
+    border-top: 1px solid #251202;
     font-size: 0.8em;
 }
 
@@ -106,7 +106,7 @@ sidebar {
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
   left: 0;
-  background-color: #331100; /* Brown */
+  background-color: #251202; /* Brown */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
 }
@@ -116,13 +116,13 @@ sidebar {
   padding: 3px 4px 3px 8px;
   text-decoration: none;
   /* font-size: 25px; */
-  color: #818181;;
+  color: #FFE8BC;
   display: block;
 }
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #fff6e6;
 }
 
 /* Style page content */
