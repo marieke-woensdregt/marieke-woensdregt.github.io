@@ -93,7 +93,7 @@ ul.posts li {
   left: 0;
   background-color: #251202; /* Brown */
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 18px;
+  padding-top: 20px;
 }
 
 /* The navigation menu links */
