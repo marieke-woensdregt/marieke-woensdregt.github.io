@@ -1,10 +1,13 @@
+
 html, body{
   padding: 0;
   margin: 0;
 }
+
 html{
   height: 100%;
 }
+
 body {
     position:relative;
     /* min-height:1800px; */
@@ -15,63 +18,85 @@ body {
     margin-top:0px;
     margin-bottom:0px;
 }
+
+.bottom-three {
+  margin-bottom: 3cm;
+}
+
+
 nav ul, footer ul {
     font-family:'Avenir Next';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     font-family:'Avenir Next';
 }
+
+
 a {
     text-decoration: none;
     color: #914608;
 }
+
 a:hover {
   text-decoration: underline;
   text-decoration-style: dotted;
 }
+
 a.menu {
     color: #BCA693;
 }
+
+
 h1 {
   font-size: 2em;
   font-family:'Avenir Next';
   font-weight: normal;
 }
+
 h2 {
   font-size: 1.5em;
   font-family:'Avenir Next';
   font-weight: normal;
 }
+
 h3 {
   font-size: 1em;
   font-family:'Avenir Next';
 }
+
 h4 {
   font-size: 1em;
   font-family:'Avenir Next';
   text-transform: uppercase;
   font-weight: normal;
 }
+
+
 p {
     font-size: 1em;
     font-family:'Avenir Next';
     line-height: 1.4em;
     color: #000000;
 }
+
 p.small {
     line-height: 80%;
     margin-left: 0px;
     color: #000000;
 }
+
+
 footer {
     border-top: 1px solid #251202;
     font-size: 0.8em;
 }
+
 
 ul.posts {
     margin: 20px auto 40px;
@@ -121,6 +146,7 @@ ul.posts li {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
 
 .tab { 
     margin-left: 10%; 
