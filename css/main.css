@@ -38,27 +38,27 @@ a.menu {
     color: #BCA693;
 }
 h1 {
-  font-size: 10vw;
+  font-size: 4vw;
   font-family:'Avenir Next';
   font-weight: normal;
 }
 h2 {
-  font-size: 7.5vw;
+  font-size: 3vw;
   font-family:'Avenir Next';
   font-weight: normal;
 }
 h3 {
-  font-size: 5vw;
+  font-size: 2vw;
   font-family:'Avenir Next';
 }
 h4 {
-  font-size: 5vw;
+  font-size: 3vw;
   font-family:'Avenir Next';
   text-transform: uppercase;
   font-weight: normal;
 }
 p {
-    font-size: 5vw;
+    font-size: 1vw;
     font-family:'Avenir Next';
     line-height: 1.4em;
     color: #000000;
@@ -70,7 +70,7 @@ p.small {
 }
 footer {
     border-top: 1px solid #251202;
-    font-size: 3vw;
+    font-size: 2vw;
 }
 
 ul.posts {
