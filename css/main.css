@@ -98,7 +98,7 @@ ul.posts li {
 
 /* The navigation menu links */
 .sidenav a {
-  padding: 3px 4px 3px 8px; /* padding order: top, right, bottom, left */
+  padding: 1.5px 2px 1.5px 4px; /* padding order: top, right, bottom, left */
   text-decoration: none;
   /* font-size: 25px; */
   color: #FFE8BC;
