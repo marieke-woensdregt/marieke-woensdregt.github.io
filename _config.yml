@@ -1,6 +1,6 @@
 name: Marieke Woensdregt
 title: Marieke Woensdregt
-description: My personal website
+description: My website
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
