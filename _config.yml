@@ -4,3 +4,5 @@ description: My website
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+
+theme: jekyll-theme-minimal
