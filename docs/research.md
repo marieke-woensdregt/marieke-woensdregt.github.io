@@ -1,6 +1,7 @@
+---
 layout: page
-title: "Research"
-permalink: /https://marieke-woensdregt.github.io/docs/research/
+title: Research
+---
 
 # Research
 
