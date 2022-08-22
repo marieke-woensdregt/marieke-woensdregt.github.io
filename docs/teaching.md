@@ -1,6 +1,6 @@
 layout: page
 title: "Teaching"
-permalink: /https://marieke-woensdregt.github.io/teaching/
+permalink: /https://marieke-woensdregt.github.io/docs/teaching/
 
 # Teaching
 
