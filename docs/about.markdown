@@ -21,7 +21,7 @@ You can find the source code for Jekyll at GitHub:
 
 # Marieke Woensdregt
 
-I'm a computational cognitive scientist who researches the interplay between language, inference, social cognition, and social interaction. Find my **CV** <a href="https://github.com/marieke-woensdregt/marieke-woensdregt.github.io/blob/docs/cv_M_Woensdregt.pdf" download> [here]</a>. Language use relies on (i) flexible inferencing skills (e.g. to combine linguistic knowledge and background knowledge to infer the meaning of a novel word like mask-shaming); (ii) socio-cognitive skills such as theory of mind (e.g., to decide whether to talk about the house or a house), and (iii) interactional skills (e.g., to ask for clarification). I use computational modelling to tackle challenging questions about these capacities and their interplay.
+I'm a computational cognitive scientist who researches the interplay between language, inference, social cognition, and social interaction. Find my **CV** <a href="https://github.com/marieke-woensdregt/marieke-woensdregt.github.io/blob/master/docs/cv_M_Woensdregt.pdf" download> [here]</a>. Language use relies on (i) flexible inferencing skills (e.g. to combine linguistic knowledge and background knowledge to infer the meaning of a novel word like mask-shaming); (ii) socio-cognitive skills such as theory of mind (e.g., to decide whether to talk about the house or a house), and (iii) interactional skills (e.g., to ask for clarification). I use computational modelling to tackle challenging questions about these capacities and their interplay.
 
 ## Watch a 15-min talk about my research programme below:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uIbiJvzXu48/0.jpg)](https://www.youtube.com/watch?v=uIbiJvzXu48)
