@@ -1,6 +1,7 @@
+---
 layout: page
-title: "About me"
-permalink: /(https://marieke-woensdregt.github.io/docs/about_me)/
+title: About me
+---
 
 
 # Marieke Woensdregt
