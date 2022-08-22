@@ -1,3 +1,4 @@
 layout: page
 title: "Research"
-permalink: [/URL-PATH/](https://marieke-woensdregt.github.io/research)
+permalink: /https://marieke-woensdregt.github.io/research/
+
