@@ -1,6 +1,6 @@
 layout: page
 title: "Publications"
-permalink: /https://marieke-woensdregt.github.io/about/publications/
+permalink: /https://marieke-woensdregt.github.io/docs/about/publications/
 
 # Publications
 
