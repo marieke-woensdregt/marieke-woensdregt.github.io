@@ -64,6 +64,4 @@ working on developing a computational model of fast and flexible linguistic infe
 takes into account both tractibility and what we know about how the brain computes.
 	
 ## Watch a 15-min talk about my research programme below:
-<iframe width="420" height="315"
-        src="https://www.youtube.com/embed/uIbiJvzXu48">
-</iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uIbiJvzXu48/0.jpg)](https://www.youtube.com/watch?v=uIbiJvzXu48)
