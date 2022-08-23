@@ -13,9 +13,13 @@ title: Publications
 <li> <b>Woensdregt, M.</b>, Cummins, C. & Smith, K. (2020). A computational model of the cultural co-evolution of language and mindreading. <i>Synthese</i>. <a href="https://doi.org/10.1007/s11229-020-02798-7">https://doi.org/10.1007/s11229-020-02798-7</a> <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s11229-020-02798-7"></div> </li>
 </ul>
 
+
 ## Chapters in edited volumes:
-- **Woensdregt, M.** & Micklos, A. (forthcoming). *Cognitive and Interactive Mechanisms for Mutual Understanding in Conversation*. In Nussbaum, J. (Ed), Oxford Research Encyclopedia of Communication. [https://psyarxiv.com/aqtfb](https://psyarxiv.com/aqtfb) <div class='altmetric-embed' data-badge-type='donut' data-doi="10.31234/osf.io/aqtfb"></div>
-- **Woensdregt, M.**, & Smith, K. (2017). *Pragmatics and Language Evolution*. In Aronoff, M. (Ed), Oxford Research Encyclopedia of Linguistics. [https://doi.org/10.1093/acrefore/9780199384655.013.321](https://doi.org/10.1093/acrefore/9780199384655.013.321) <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/acrefore/9780199384655.013.321"></div>
+
+<ul>
+<li> <b>Woensdregt, M.</b> & Micklos, A. (forthcoming). <i>Cognitive and Interactive Mechanisms for Mutual Understanding in Conversation</i>. In Nussbaum, J. (Ed), Oxford Research Encyclopedia of Communication. [https://psyarxiv.com/aqtfb](https://psyarxiv.com/aqtfb) <div class='altmetric-embed' data-badge-type='donut' data-doi="10.31234/osf.io/aqtfb"></div> </li>
+<li> <b>Woensdregt, M.</b>, & Smith, K. (2017). <i>Pragmatics and Language Evolution</i>. In Aronoff, M. (Ed), Oxford Research Encyclopedia of Linguistics. [https://doi.org/10.1093/acrefore/9780199384655.013.321](https://doi.org/10.1093/acrefore/9780199384655.013.321) <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/acrefore/9780199384655.013.321"></div> </li>
+</ul>
 
 
 ## Papers in conference proceedings:
