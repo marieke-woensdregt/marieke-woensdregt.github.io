@@ -6,10 +6,10 @@ layout: default
 ---
 
 
-[About](./about_me.md)
+# [About](./about_me.md)
 
-[Research](./research.md)
+# [Research](./research.md)
 
-[Publications](./publications.md)
+# [Publications](./publications.md)
 
-[Teaching](./teaching.md)
+# [Teaching](./teaching.md)
