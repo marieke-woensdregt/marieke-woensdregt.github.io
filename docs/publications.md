@@ -18,7 +18,7 @@ title: Publications
 
 <ul>
 <li> <b>Woensdregt, M.</b> & Micklos, A. (forthcoming). <i>Cognitive and Interactive Mechanisms for Mutual Understanding in Conversation</i>. In Nussbaum, J. (Ed), Oxford Research Encyclopedia of Communication. <a href="https://psyarxiv.com/aqtfb">https://psyarxiv.com/aqtfb</a> <div class='altmetric-embed' data-badge-type='donut' data-doi="10.31234/osf.io/aqtfb"></div> </li>
-<li> <b>Woensdregt, M.</b>, & Smith, K. (2017). <i>Pragmatics and Language Evolution</i>. In Aronoff, M. (Ed), Oxford Research Encyclopedia of Linguistics. <a href="https://doi.org/10.1093/acrefore/9780199384655.013.321">https://doi.org/10.1093/acrefore/9780199384655.013.321</a> <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/acrefore/9780199384655.013.321"></div> </li>
+<li> <b>Woensdregt, M.</b>, & Smith, K. (2017). <i>Pragmatics and Language Evolution</i>. In Aronoff, M. (Ed), Oxford Research Encyclopedia of Linguistics. <a href="https://psyarxiv.com/5sqfj/">https://psyarxiv.com/5sqfj/</a> <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/acrefore/9780199384655.013.321"></div> </li>
 </ul>
 
 
