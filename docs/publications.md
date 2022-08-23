@@ -6,9 +6,9 @@ title: Publications
 # Publications
 
 ## Journal articles:
-- Blokpoel, M., Dingemanse, M., **Woensdregt, M.**, Kachergis, G., Bögels, S., Toni, I., & van Rooij, I. (in revision). Pragmatic communicators can overcome asymmetry by exploiting ambiguity. [https://doi.org/10.31219/osf.io/q56xs](https://doi.org/10.31219/osf.io/q56xs)
-- Heesen, R., Fröhlich, M., Sievers, C., **Woensdregt, M.**, & Dingemanse, M. (2022). Coordinating social action: A primer for the cross-species investigation of communicative repair. *Phil. Trans. R. Soc. B.* [https://doi.org/10.1098/rstb.2021.0110](https://doi.org/10.1098/rstb.2021.0110)
-- **Woensdregt, M.**, Cummins, C. & Smith, K. (2020). A computational model of the cultural co-evolution of language and mindreading. *Synthese*. [https://doi.org/10.1007/s11229-020-02798-7](https://doi.org/10.1007/s11229-020-02798-7)
+- Blokpoel, M., Dingemanse, M., **Woensdregt, M.**, Kachergis, G., Bögels, S., Toni, I., & van Rooij, I. (in revision). Pragmatic communicators can overcome asymmetry by exploiting ambiguity. [https://doi.org/10.31219/osf.io/q56xs](https://doi.org/10.31219/osf.io/q56xs) <div class='altmetric-embed' data-badge-type='donut' data-doi="10.31219/osf.io/q56xs"></div>
+- Heesen, R., Fröhlich, M., Sievers, C., **Woensdregt, M.**, & Dingemanse, M. (2022). Coordinating social action: A primer for the cross-species investigation of communicative repair. *Phil. Trans. R. Soc. B.* [https://doi.org/10.1098/rstb.2021.0110](https://doi.org/10.1098/rstb.2021.0110) <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rstb.2021.0110"></div>
+- **Woensdregt, M.**, Cummins, C. & Smith, K. (2020). A computational model of the cultural co-evolution of language and mindreading. *Synthese*. [https://doi.org/10.1007/s11229-020-02798-7](https://doi.org/10.1007/s11229-020-02798-7) <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s11229-020-02798-7"></div>
 
 
 ## Chapters in edited volumes:
