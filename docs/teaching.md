@@ -40,4 +40,4 @@ title: Teaching
 
 
 ## Accreditation:
-- In May 2018 (fourth year of my PhD) I was accredited as [Associate Fellow of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship/associate-fellowship). Find my accrediation certificate here.
+- In May 2018 (fourth year of my PhD) I was accredited as [Associate Fellow of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship/associate-fellowship). Find my accrediation certificate [here](/assets/Certificate_HEA_Associate_Fellow_May_2018.pdf).
