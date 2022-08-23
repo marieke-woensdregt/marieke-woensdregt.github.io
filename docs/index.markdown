@@ -4,3 +4,12 @@
 
 layout: default
 ---
+
+
+[About](./about_me.md)
+
+[Research](./research.md)
+
+[Publications](./publications.md)
+
+[Teaching](./teaching.md)
