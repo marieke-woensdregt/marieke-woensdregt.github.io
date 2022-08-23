@@ -21,9 +21,7 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_name }}/research"><h4> Research </h4> </a></p>
-        {% endif %}
+        <h1><a href="{{ "/" | absolute_url }}/research">{{ Research | default: site.github.repository_name/research }}</a></h1>
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
