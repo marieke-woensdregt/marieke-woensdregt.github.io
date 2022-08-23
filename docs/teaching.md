@@ -38,3 +38,6 @@ title: Teaching
 - *MSc Thesis project, Modelling co-evolution of language and pragmatics* (MSc; 2019): Together with [Simon Kirby](https://www.simonkirby.net/), I supervised Anna Kapron-King for her dissertation project titled *Cultural Co-Evolution of Language and Pragmatic Ability* for her MSc in Linguistics at the University of Edinburgh. This project led to a conference abstract that was accepted for a poster presentation at Evolang XIII, 2020.
 - *MSc Thesis project, Modelling language and theory of mind* (MSc; 2016): Together with [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/), I supervised Yiyun Zhao for her dissertation project titled *Simulating the interaction between mindreading and language in development and evolution* for her MSc in Evolution of Language and Cognition at the University of Edinburgh/
 
+
+## Accreditation:
+- In May 2018 (fourth year of my PhD) I was accredited as [Associate Fellow of the Higher Education Academy](https://www.advance-he.ac.uk/fellowship/associate-fellowship). Find my accrediation certificate here.
