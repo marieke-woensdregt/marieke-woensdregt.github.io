@@ -7,7 +7,7 @@ title: Research
 
 ## Fast & flexible linguistic inference
 
-I am currently a postdoctoral researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, where I work with [Andrea Martin](https://sites.google.com/site/aemn1011/home), [Iris van Rooij](https://irisvanrooijcogsci.com/) and [Mark Blokpoel](https://markblokpoel.com/) on a computational model of fast and flexible linguisticinference. In this project, we take very seriously the plausibility constraints that this model has to be both tractable (i.e., operate at scale with limited time and memory) and operate in a way that is plausible given what we know about how the brain works.	
+During my third postdoc at at the Max Planck Institute for Psycholinguistics in Nijmegen, supervised by [Andrea Martin](https://sites.google.com/site/aemn1011/home), [Iris van Rooij](https://irisvanrooijcogsci.com/) and [Mark Blokpoel](https://markblokpoel.com/). I worked on outlining what makes it hard to explain the cognitive capcitiy of _flexible linguistic inference_ (i.e. the ability to interpret a novel word like _"mask-shaming"_ upon first encounter, which arguably requires integrating semantic, morphosyntactic, and world knowledge). By outlining the core properties of the phenomenon to be explained, as well as various constraints on what makes a good explanation, we layed out the "force field" that researchers have to navigate when developing theory to explain this cognitive capacity.
 
 
 ## Language and social cognition
