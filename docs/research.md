@@ -22,9 +22,8 @@ During my first postdoc at the Centre for Language Studies at Radboud University
 	
 	
 ## Plausibility constraints:
-Computational models of cognition have to be plausible, which includes being tractable and scalable. In [this CogSci paper](https://escholarship.org/uc/item/021734q4), we showed that widely-used models of language evolution are intractable, and cannot scale to ecologically-sized vocabularies. This has important implications for how computational modelling results are linked to real-world phenomena. 
+Computational models of cognition have to be plausible, which includes being tractable and scalable. In [this CogSci paper](https://escholarship.org/uc/item/021734q4), we showed that widely-used models of language evolution are intractable, and cannot scale to ecologically-sized vocabularies. This has important implications for how computational modelling results are linked to real-world phenomena.
 
-In my current postdoc project, plausibility constraints also play a central role. I am currently working on developing a computational model of fast and flexible linguistic inference that takes into account both tractibility and what we know about how the brain computes.
 	
 ## Watch a 15-min talk about my research programme below:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uIbiJvzXu48/0.jpg)](https://www.youtube.com/watch?v=uIbiJvzXu48)
